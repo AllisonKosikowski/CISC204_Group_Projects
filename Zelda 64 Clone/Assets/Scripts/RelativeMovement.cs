@@ -104,4 +104,5 @@ public class RelativeMovement : MonoBehaviour {
 	void OnControllerColliderHit(ControllerColliderHit hit) {
 		contact = hit;
 	}
+	
 }
